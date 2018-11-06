@@ -4,3 +4,4 @@
 - generate random numbers
 - Go testing
 - special types
+- basic interface and go channels
